@@ -3,4 +3,12 @@
 This project is build using python has a main language and library: opencv(cv2), numpy , tkinter for UI , skimage to display the detected/stolen image.
 
 2nd part:
-Theft detection with advance alert system, in this project we have call alert and mail attachment(stolen image). 
+Theft detection with advance alert system, in this project we have call alert and mail attachment(stolen image) and beep sound.
+
+
+
+
+
+
+email:Rohit66times@gmail.com
+email:guardianeye7@gmail.com
