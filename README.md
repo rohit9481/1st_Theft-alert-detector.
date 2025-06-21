@@ -10,5 +10,5 @@ Theft detection with advance alert system, in this project we have call alert an
 
 
 
-email:rohit66times@gmail.com
+email:rohityakkundi6@gmail.com
 email:guardianeye7@gmail.com
